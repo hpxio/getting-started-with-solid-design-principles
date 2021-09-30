@@ -1,4 +1,4 @@
-package com.app.gsw.srp.example1.after.utils;
+package com.app.gsw.srp.example1.modified.utils;
 
 import org.springframework.stereotype.Component;
 

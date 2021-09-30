@@ -1,13 +1,15 @@
-package com.app.gsw.srp.example1.after.controller;
+package com.app.gsw.srp.example1.modified.controller;
 
-import com.app.gsw.srp.example1.after.contants.ApplicationConstants;
-import com.app.gsw.srp.example1.after.service.UserPortalService;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.app.gsw.srp.example1.modified.contants.ApplicationConstants;
+import com.app.gsw.srp.example1.modified.service.UserPortalService;
+
+import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController

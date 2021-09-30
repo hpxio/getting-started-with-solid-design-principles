@@ -1,4 +1,4 @@
-package com.app.gsw.srp.example1.after.exception;
+package com.app.gsw.srp.example1.modified.exception;
 
 public enum ApplicationErrorCode {
   INVALID_INPUT("invalid.input", "Field provided does not pass validation!")

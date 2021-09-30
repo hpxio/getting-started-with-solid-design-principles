@@ -1,9 +1,13 @@
-package com.app.gsw.srp.example1.before;
-
-import lombok.extern.slf4j.Slf4j;
-import org.springframework.web.bind.annotation.*;
+package com.app.gsw.srp.example1.base;
 
 import java.util.UUID;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController

@@ -1,9 +1,10 @@
-package com.app.gsw.srp.example1.after.service;
+package com.app.gsw.srp.example1.modified.service;
 
-import com.app.gsw.srp.example1.after.utils.UserPortalUtil;
-import com.app.gsw.srp.example1.after.validation.UserPortalValidation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.app.gsw.srp.example1.modified.utils.UserPortalUtil;
+import com.app.gsw.srp.example1.modified.validation.UserPortalValidation;
 
 @Service
 public class UserPortalServiceImpl implements UserPortalService {

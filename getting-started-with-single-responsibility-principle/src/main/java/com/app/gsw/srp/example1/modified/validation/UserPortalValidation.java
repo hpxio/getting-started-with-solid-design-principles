@@ -1,4 +1,4 @@
-package com.app.gsw.srp.example1.after.validation;
+package com.app.gsw.srp.example1.modified.validation;
 
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package com.app.gsw.srp.example1.after.exception;
+package com.app.gsw.srp.example1.modified.exception;
 
 import org.springframework.stereotype.Component;
 
